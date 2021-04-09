@@ -1,2 +1,2 @@
 
-Compilador: MinGW v.6.2
+Compilador: MinGW v.0.6.2
