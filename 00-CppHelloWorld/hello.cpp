@@ -1,4 +1,10 @@
 #include <iostream>
+#include <fstream>
+using namespace std;
+
 int main() {
-std::cout << "Hello, World!\n";
+ofstream output("output.txt");
+output << "Hello World";
+output.close();
+
 }
